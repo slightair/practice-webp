@@ -1,0 +1,29 @@
+PODS:
+  - libwebp (0.4.0):
+    - libwebp/dec
+    - libwebp/demux
+    - libwebp/dsp
+    - libwebp/enc
+    - libwebp/mux
+    - libwebp/utils
+    - libwebp/webp
+  - libwebp/dec (0.4.0)
+  - libwebp/demux (0.4.0)
+  - libwebp/dsp (0.4.0)
+  - libwebp/enc (0.4.0)
+  - libwebp/mux (0.4.0)
+  - libwebp/utils (0.4.0)
+  - libwebp/webp (0.4.0)
+  - SDWebImage/Core (3.5.4)
+  - SDWebImage/WebP (3.5.4):
+    - libwebp
+    - SDWebImage/Core
+
+DEPENDENCIES:
+  - SDWebImage/WebP
+
+SPEC CHECKSUMS:
+  libwebp: 325bda7f5a0030dbba71d5e771a62547ecf8f8cc
+  SDWebImage: 1a62010700adbba823b621fc217906739dbf6aa5
+
+COCOAPODS: 0.29.0
